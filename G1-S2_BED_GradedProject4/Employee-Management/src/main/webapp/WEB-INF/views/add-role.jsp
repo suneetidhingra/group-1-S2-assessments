@@ -41,7 +41,7 @@
 		</form>
 
 		<hr>
-		<a href="/EmployeeManagement/roles.list" class="btn btn-primary btn-sm mb-3"> Back to Roles List </a>
+		<a href="/EmployeeManagement/roles/list" class="btn btn-primary btn-sm mb-3"> Back to Roles List </a>
 	</div>
 </body>
 

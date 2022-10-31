@@ -51,7 +51,7 @@
 		</form>
 
 		<hr>
-		<a href="/EmployeeManagement/employees/list">Back to Employees List</a>
+		<a href="/EmployeeManagement/employees/list" class="btn btn-primary btn-sm mb-3" >Back to Employees List</a>
 	</div>
 </body>
 
